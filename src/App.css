@@ -1,0 +1,40 @@
+.quote-title {
+  font-size: 25px;
+  font-weight: 600;
+  font-family:"san-serif"
+}
+
+.blockquote-footer{
+  margin-bottom: 20px;
+}
+
+.card-layout{
+  margin-top : 100px;
+}
+
+.save-btn{
+  float: right;
+}
+
+.delete-icon {
+  float: right;
+  color : red;
+}
+
+.quote-cards{
+  margin-bottom : 20px;
+}
+.link {
+  color : #00ff33;
+  text-decoration: none;
+  outline: none;
+  margin-right : 15px;
+}
+
+.navbar{
+  margin-bottom : 20px;
+}
+.message{
+  font-size : 18px;
+  font-weight: 600;
+}
